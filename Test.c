@@ -196,7 +196,7 @@ char username[6],pass[5],op;
       scanf("%s",adminame);
       printf("\n\t\t\t Enter the password:");
       scanf("%s",adminpwd);
-      if(strcmp(adminame,"Admin") == 0 && strcmp(adminpwd,"Hithasree") == 0)
+      if(strcmp(adminame,"Admin") == 0 && strcmp(adminpwd,"Password") == 0)
       {
         system("cls");
         printf("\n\t\t\t Welcome Admin:");
