@@ -1,0 +1,21 @@
+Step1) start
+Step2)output the following
+          1.Register for vaccine
+	2.Login as admin	
+	3.Exit
+Step3)Ask the user to enter the option
+Step4)If user entered the 1st option
+		4.1.Ask the user to first create the account
+		4.2.After creating the account login
+		4.3.Choice the nurses based on their experience
+		4.4.After choosing The registration is completed
+Step5)else if user entered 2nd option
+		5.1).Ask the user to enter credentials for admin
+		5.2).Ask the user to enter the token number
+		5.3).If credentials and token No are correct
+			5.3.1)The admin can search the files and add files
+		5.4)If credentials and token No are wrong
+			5.4.1)The application gets closed due to security reasons
+Step6)If user entered the option 3
+	6.1)Exit the application
+Step7)End the program
